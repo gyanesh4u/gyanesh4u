@@ -2,7 +2,7 @@
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning Rest Assured API,Cypress,Jmeter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...kamal.gyanesh8@gmail.com
 
 <!---
 gyanesh4u/gyanesh4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
