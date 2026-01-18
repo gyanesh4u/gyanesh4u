@@ -1,113 +1,124 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi,%20I'm%20Gyanesh&fontSize=38&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=850&lines=Test+Automation+Engineer;UI+Automation+%7C+API+Testing;Performance+Engineering+%7C+DevOps+%26+CI%2FCD;Focused+on+Quality+%26+Scalable+Automation" />
-</p>
+<h1 align="center">Hi 👋, I'm Gyanesh</h1>
+<h3 align="center">Quality Engineer | UI, API & Performance Testing Specialist</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Test Automation & Quality Engineering professional** with hands-on experience in **UI automation, API testing, performance testing, and DevOps integration**.  
-I specialize in designing scalable automation frameworks, improving test reliability, and integrating automated tests into CI/CD pipelines.
+I am a **Quality Engineer** with strong hands-on experience in **UI automation, API testing, and performance testing**.  
+I specialize in building **scalable, maintainable, and CI/CD-ready test frameworks** that ensure system reliability, performance, and quality across modern applications.
 
-I strongly believe that **quality is built, not tested at the end**.
+My focus areas include:
+- End-to-end quality engineering
+- API automation & validation
+- **Performance testing using Locust**
+- DevOps-aligned testing practices
 
 ---
 
-## 🧪 Testing & Automation Expertise
+## 🧪 Testing & Quality Engineering Skills
 
 ### 🔹 UI Automation
-<p>
-  <img src="https://img.shields.io/badge/Selenium-Automation-success?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-UI_Testing-black?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-Cross_Browser-purple?style=for-the-badge&logo=playwright&logoColor=white"/>
-</p>
-
+- Playwright
+- Selenium
+- Cross-browser testing
 - Page Object Model (POM)
-- Cross-browser & regression testing
-- TestNG + Maven based frameworks
+
+### 🔹 API Testing
+- REST API testing
+- Postman & Newman
+- Automated API validations
+- JSON schema & contract testing
+
+### 🔹 Performance Testing
+- **Locust (Python-based load testing)**
+- API load, stress & spike testing
+- Distributed user simulation
+- Real-time metrics & reporting
+- Bottleneck and threshold analysis
+
+### 🔹 DevOps & Engineering Practices
+- CI/CD integration (GitHub Actions / Azure DevOps)
+- Git & GitHub workflows
+- Docker (basic)
+- Test execution in pipelines
 
 ---
 
-### 🔗 API Testing
-<p>
-  <img src="https://img.shields.io/badge/Rest_Assured-API_Testing-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-API_Collections-orange?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+## 🚀 Performance Testing with Locust
 
-- REST API automation & validation
-- Schema & response assertions
-- Integration testing
+I design and implement **Locust-based performance testing frameworks** focused on API reliability and scalability.
 
----
+### What I Build Using Locust:
+- Modular user behavior models
+- Environment-based configuration
+- CSV-driven test data
+- Load, stress, and endurance tests
+- Failure thresholds for CI pipelines
+- HTML & CSV performance reports
 
-### 🚀 Performance Testing
-<p>
-  <img src="https://img.shields.io/badge/JMeter-Load_Testing-red?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-</p>
-
-- Load, stress & endurance testing
-- Performance metrics analysis
-- Bottleneck identification
+### Typical Use Cases:
+- API throughput validation
+- Concurrent user simulation
+- SLA & response time verification
+- Pre-production performance benchmarking
 
 ---
 
-### ⚙️ DevOps & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-Build_Automation-blue?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+## 🛠️ Tools & Technologies
 
-- Automated test execution in pipelines
-- Build & deployment validation
-- Shift-left testing approach
-
----
-
-## 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-Primary-brown?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Scripting-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+![Playwright](https://img.shields.io/badge/Playwright-UI%20Automation-green?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-Performance%20Testing-00C853?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge)
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|-------|-------------|
-| **NewMaven** | Parent–child Maven framework using TestNG |
-| **DemoRepo** | Automation framework experiments & demos |
-| **LogicInvoiceProject** | Business logic implementation with testing focus |
+### 🔥 API Performance Testing Framework (Locust)
+- Python-based performance testing framework
+- API-focused load and stress testing
+- Configurable environments
+- CI/CD-friendly execution
+- HTML & CSV performance reports
 
-*(Repositories showcase UI, API, and framework-level automation skills)*
+📂 Repository: *Coming Soon*
+
+---
+
+### 🔥 UI & API Automation Framework
+- Playwright-based UI automation
+- REST API automation support
+- Reusable utilities & test data management
+- CI-ready design
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanesh4u&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanesh4u&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="mailto:kamal.gyanesh8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kamal.gyanesh8@gmail.com-red?style=for-the-badge"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+- GitHub: https://github.com/gyanesh4u
+- LinkedIn: *Add your LinkedIn URL here*
 
 ---
 
-⭐ **Focused on building reliable, maintainable, and scalable test automation solutions**
+## 💡 What I’m Currently Working On
+- Advanced **Locust performance testing frameworks**
+- CI/CD integrated test execution
+- Improving test observability & reporting
+- Scaling API test strategies
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect!
