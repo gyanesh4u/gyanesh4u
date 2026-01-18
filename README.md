@@ -1,18 +1,29 @@
 <h1 align="center">Hi 👋, I'm Gyanesh</h1>
-<h3 align="center">Quality Engineer | UI, API & Performance Testing</h3>
+<h3 align="center">Quality Engineer | UI, API & Performance Testing Specialist</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 I am a **Quality Engineer** with hands-on experience in **UI automation, API testing, and performance testing**.  
-I focus on building **robust, scalable, and CI/CD-ready test frameworks** that help teams deliver reliable and high-performing software.
+I specialize in building **scalable, maintainable, and CI/CD-ready test frameworks** that help teams deliver reliable, high-performing software.
 
-My core strengths include:
+My focus areas include:
 - End-to-end test automation
 - API validation and contract testing
 - **Performance testing using Locust**
-- DevOps-aligned testing strategies
+- DevOps-aligned testing practices
+
+---
+
+## 📌 Contents
+- About Me  
+- Skills  
+- Performance Testing  
+- Tools & Technologies  
+- Featured Projects  
+- GitHub Stats  
+- Connect With Me  
 
 ---
 
@@ -28,38 +39,37 @@ My core strengths include:
 - REST API testing
 - Postman & Newman
 - Automated API validations
-- JSON & response schema checks
+- JSON schema & response checks
 
 ### 🔹 Performance Testing
 - **Locust (Python-based performance testing)**
 - API load, stress, and endurance testing
 - Concurrent user simulation
-- Performance metrics analysis
-- Bottleneck identification
+- Performance metrics and bottleneck analysis
 
 ### 🔹 DevOps & Engineering Practices
 - Git & GitHub workflows
 - CI/CD integration (GitHub Actions / Azure DevOps)
-- Test execution in pipelines
+- Pipeline-based test execution
 - Basic Docker usage
 
 ---
 
 ## 🚀 Performance Testing with Locust
 
-I design and execute **API-focused performance testing solutions using Locust**, ensuring applications meet scalability and response time expectations.
+I design and execute **API-focused performance testing solutions using Locust**, ensuring applications meet scalability, reliability, and response-time expectations.
 
-### What I Do with Locust:
-- Create modular user behavior scripts
+### What I Do with Locust
+- Build modular user behavior scripts
 - Simulate real-world concurrent traffic
-- Perform load, stress, and spike tests
-- Capture response time, throughput, and failure metrics
+- Execute load, stress, and spike tests
+- Capture response time, throughput, and error metrics
 - Integrate performance tests into CI/CD pipelines
-- Generate HTML and CSV reports for analysis
+- Generate HTML and CSV performance reports
 
-### Typical Use Cases:
+### Typical Use Cases
 - API scalability validation
-- SLA and response time verification
+- SLA and response-time verification
 - Pre-release performance benchmarking
 - Regression performance testing
 
@@ -82,7 +92,7 @@ I design and execute **API-focused performance testing solutions using Locust**,
 ### 🔥 API Performance Testing Framework (Locust)
 - Python-based Locust framework for API performance testing
 - Load, stress, and endurance test scenarios
-- Configurable environments
+- Environment-based configuration
 - CI/CD-friendly execution
 - HTML & CSV performance reports
 
@@ -93,35 +103,32 @@ I design and execute **API-focused performance testing solutions using Locust**,
 ### 🔥 UI & API Automation Framework
 - Playwright-based UI automation
 - REST API automation support
-- Reusable utilities and test data handling
+- Reusable utilities and test-data handling
 - Designed for CI pipeline execution
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gyanesh4u&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=gyanesh4u&show_icons=true&hide_border=true&cache_seconds=1800"
     alt="Gyanesh GitHub Stats"
   />
 </p>
-
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/gyanesh4u  
-- LinkedIn: *https://www.linkedin.com/in/gyanesh-kamal-074590199/*
+- LinkedIn: *(Add your LinkedIn profile URL)*  
 
 ---
 
 ## 💡 Currently Working On
 - Building **Locust-based performance testing frameworks**
-- CI/CD integrated test execution
+- CI/CD-integrated test execution
 - Improving performance observability
 - Strengthening API test strategies
 
