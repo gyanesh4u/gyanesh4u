@@ -100,9 +100,15 @@ I design and execute **API-focused performance testing solutions using Locust**,
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanesh4u&show_icons=true&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gyanesh4u&show_icons=true&hide_border=true"
+    alt="Gyanesh GitHub Stats"
+  />
 </p>
+
 
 ---
 
